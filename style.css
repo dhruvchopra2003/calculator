@@ -1,0 +1,33 @@
+.button{
+    padding: 16px;
+    margin: 1px;
+    border : 0.5px solid #984a38;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.row input {
+    margin: 0;
+    padding: 10px;
+    border: 2px solid #984a38;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.row {
+    margin: 5px 0;
+}
+
+.container{
+    border: 1px solid black;
+    padding: 10px;
+    /* margin: 0px 350px; */
+    margin: auto;
+    /* justify-content: center; */
+    max-width: 250px;
+    border-radius: 15px;
+    background-color:#a18a84;
+}
